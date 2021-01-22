@@ -74,3 +74,5 @@ After finishing your required elements, you can push your work further. These go
 ## Submission format
 
 Please see canvas for cohort specific submission instructions 
+
+## Commit Test
